@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/main/Main.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/graphicobjects/frames/CreateGameDialog.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/Client.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/MessageTyp.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/ProtoFactories.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/graphicobjects/panel/AuthorizationPanel.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/NetworkConfig.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/MessagesBuilder.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/Interfaces/IClientGameChat.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/graphicobjects/panel/RegistrationPanel.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/graphicobjects/frames/MainFrame.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/handlers/AllUserDataHandler.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/handlers/UserNotFoundHandler.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/handlers/CheckLoginHandler.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/network/handlers/IncomingMessageHandler.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/newpackage/User.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/Interfaces/IGameChatFrame.java</file>
+        <file>file:/D:/Мої%20документи/IT/JAVA/GameChatProject/GameChatClient/src/Interfaces/IUsers.java</file>
+    </open-files>
+</project-private>
